@@ -2,11 +2,6 @@ Charcha-Club
 
 Charcha-Club(Charcha = discussion; sounds community-oriented, like a friendly circle)is a seamless, peer-to-peer video conferencing solution built using modern web technologies like WebRTC, Socket.io, and Node.js. It offers real-time communication with minimal latency, perfect for video calls, voice chats, and soon-to-come text messaging, making it a robust platform for virtual meetings.
 
-Getting Started:
-
-Run npm ci
-cd src
-Start the server using node server.js or npm start
 
 Features:
 
